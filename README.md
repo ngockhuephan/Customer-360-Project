@@ -7,7 +7,11 @@
 
 > Segmenting customers into actionable BCG Matrix segments to enable more effective personalized marketing for year-end campaigns.
 
-> For a more detailed analysis, you can explore the full report [here](./DA_Customer360Report_PhanNgocKhue.pdf).
+<p align="center">
+  <a href="./DA_Customer360Report_PhanNgocKhue.pdf">
+    <img src="https://img.shields.io/badge/View%20Full%20Report-Click%20Here-yellow?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
 ---
 
