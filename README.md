@@ -84,7 +84,7 @@ RFM score combinations are mapped to four strategic customer groups based on the
 
 ## 4. Recommended actions per segment
 
-| **BCG Matrix** | **Customer Segment** | **Recommeded actions** |
+| **BCG Matrix** | **Customer Segment** | **Recommeded Actions** |
 |---|---|---|
 | ⭐ Star | **VIP Customers <br> - Retain & reward** | • Launch VIP program: priority support, birthday gifts, free shipping. <br> • Send personalized product recommendations based on purchase history. <br> • If VIP hasn't bought in 25–30 days → send a retention offer immediately. |
 | 🐄 Cash Cows | **Loyal Customers <br> - Upgrade to VIP** | • Show how close they are to the VIP segment (for example, "2 more orders to become VIP customer"). <br> • Offer bundle deals and cross-sells to increase order value and purchase frequency. <br> • Give points for repeat purchases - more buys = more rewards. |
